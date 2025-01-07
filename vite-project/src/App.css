@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -38,5 +38,18 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #ffffff;
+} */
+
+
+.cdx-toolbar {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
+
+/* Align toolbar buttons to the left */
+
+
+
